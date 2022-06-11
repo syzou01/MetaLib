@@ -14,6 +14,7 @@
         <module>metalib-order</module>
         <module>metalib-storage</module>
         <module>metalib-user</module>
+        <module>metalib-admin</module>
     </modules>
 
 </project>
